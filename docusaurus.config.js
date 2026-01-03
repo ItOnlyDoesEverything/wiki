@@ -2,12 +2,12 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 module.exports = {
-  title: "Halcyon Wiki",
-  tagline: "Welcome to the Halcyon Wiki!",
+  title: "#ItOnlyDoesEverything Wiki",
+  tagline: "Welcome to the #ItOnlyDoesEverything Wiki!",
   favicon: "img/favicon.ico",
-  url: "https://wiki.hlcyn.co",
+  url: "https://wiki.itonlydoeseverything.org",
   baseUrl: "/",
-  organizationName: "halcyonproject",
+  organizationName: "ItOnlyDoesEverything",
   projectName: "wiki",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -64,17 +64,17 @@ module.exports = {
       navbar: {
         title: "Wiki",
         logo: {
-          alt: "Halcyon Logo",
+          alt: "#ItOnlyDoesEverything Logo",
           src: "img/logo.png",
         },
         items: [
           {
-            href: "https://github.com/halcyonproject",
+            href: "https://github.com/ItOnlyDoesEverything",
             position: "right",
             className: "header-github-link",
           },
           {
-            href: "https://twitter.com/hlcynprjct",
+            href: "https://twitter.com/ItOnlyDoesROM",
             position: "right",
             className: "header-x-link",
           },
@@ -93,11 +93,11 @@ module.exports = {
             items: [
               {
                 label: "Telegram (Channel)",
-                to: "https://t.me/hlcynprjct",
+                to: "https://t.me/itonlydoeseverything",
               },
               {
                 label: "Telegram (Chat)",
-                to: "https://t.me/hlcynprjctchat",
+                to: "https://t.me/itonlydoeseverythingchat",
               },
             ],
           },
@@ -109,7 +109,7 @@ module.exports = {
         ],
       },
       footer: {
-        copyright: `© ${new Date().getFullYear()} Halcyon Project. <br /> Android is a trademark of Google LLC.`,
+        copyright: `© ${new Date().getFullYear()} #ItOnlyDoesEverything. <br /> Android is a trademark of Google LLC.`,
       },
       prism: {
         theme: prismThemes.github,
@@ -118,7 +118,7 @@ module.exports = {
       announcementBar: {
         id: "pin",
         content:
-          'Bloom 16.0 is now available! see <a target="_blank" rel="noopener noreferrer" href="/devices">supported devices</a>.',
+          '4.16 is now available! see <a target="_blank" rel="noopener noreferrer" href="/devices">supported devices</a>.',
         backgroundColor: "#1E201E",
         textColor: "#f3d2d2",
         isCloseable: true,

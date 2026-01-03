@@ -1,6 +1,6 @@
-# Halcyon wiki
+# #ItOnlyDoesEverything wiki
 
-The Halcyon Wiki website is created as a statically generated site, constructed with the utilization of [Docusaurus](https://docusaurus.io).
+The #ItOnlyDoesEverything Wiki website is created as a statically generated site, constructed with the utilization of [Docusaurus](https://docusaurus.io).
 
 ## Requirements
 - Node.js and npm: You must have `Node.js` and  `npm` (Node Package Manager) installed on your system. If you prefer `yarn` over `npm`, you can install `yarn` through `npm`.
@@ -9,7 +9,7 @@ Once you have these prerequisites, you can proceed to setup the project and star
 ## Setup
 Clone this repository
 ```bash
-git clone https://github.com/halcyonproject/wiki.git
+git clone https://github.com/ItOnlyDoesEverything/wiki.git
 ```
 Go into directory
 ```bash

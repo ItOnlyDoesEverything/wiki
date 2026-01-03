@@ -1,17 +1,11 @@
 @font-face {
-    font-family: "Geist";
-    font-weight: Regular;
-    src: url("/static/fonts/Geist/Geist-Regular.woff2") format("woff2");
-}
-
-@font-face {
-    font-family: "Geist";
-    font-weight: Bold;
-    src: url("/static/fonts/Geist/Geist-Bold.woff2") format("woff2");
+    font-family: "Google Sans Flex";
+    src: url("/static/fonts/GoogleSansFlex/GoogleSansFlex-VariableFont_GRAD,ROND,opsz,slnt,wdth,wght.ttf") format("truetype");
+    font-weight: 100 1000;
 }
 
 :root {
-    --ifm-font-family-base: "Geist";
+    --ifm-font-family-base: "Google Sans Flex";
     --ifm-color-primary: #dd6d6d;
     --ifm-color-primary-dark: #9e7a7a;
     --ifm-color-primary-darker: #775454;

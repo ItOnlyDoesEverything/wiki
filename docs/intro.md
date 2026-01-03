@@ -7,15 +7,15 @@ hide_table_of_contents: true
 title: "Quickstart"
 ---
 
-# Welcome to Halcyon Wiki!
+# Welcome to #ItOnlyDoesEverything Wiki!
 
-Welcome to the official documentation page for Halcyon, a simple yet powerful AOSP-based custom ROM. Halcyon is designed to be unique, minimalist, and streamlined for optimal performance.
+Welcome to the official documentation page for #ItOnlyDoesEverything, a simple yet powerful AOSP-based custom ROM. #ItOnlyDoesEverything is designed to be unique, minimalist, and streamlined for optimal performance.
 
 
 ## Contribute
 
 This wiki is powered by [Docusaurus](https://docusaurus.io/), and contributions are welcome! Take a look at our source code on GitHub:
-[Halcyon Wiki Source Code](https://github.com/halcyonproject/wiki).
+[#ItOnlyDoesEverything Wiki Source Code](https://github.com/ItOnlyDoesEverything/wiki).
 
 ## Getting started
 <div className="responsive-container">
@@ -30,7 +30,7 @@ This wiki is powered by [Docusaurus](https://docusaurus.io/), and contributions 
   <div>
     <h2>Developers</h2>
     <ul>
-      <li><a href="/development/building/downloading_source">Building Halcyon</a></li>
+      <li><a href="/development/building/downloading_source">Building #ItOnlyDoesEverything</a></li>
       <li><a href="/development/maintainership/apply">Official Maintainership</a></li>
     </ul>
   </div>

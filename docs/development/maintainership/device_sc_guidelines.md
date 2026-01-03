@@ -8,13 +8,13 @@ You can refer to the definitions of the keywords used [here](https://datatracker
 
 ## Device Tree and Vendor Tree
 
-Device trees for Halcyon:
+Device trees for #ItOnlyDoesEverything:
 
 - **MUST** have proper commit authorship.  
 - **MUST** have clear and descriptive commit titles.  
 - **MUST** follow proper formatting for commit titles and descriptions.  
 - **MUST** include a working proprietary files list.  
-- **MUST NOT** ship any prebuilt APKs that do not come from Halcyon, including Google Camera and GrapheneOS Camera. 
+- **MUST NOT** ship any prebuilt APKs that do not come from #ItOnlyDoesEverything, including Google Camera and GrapheneOS Camera. 
 - **MUST NOT** contain any unused overlays.  
 - **MUST NOT** include any features that do not exist in the stock ROM.  
 - **MUST NOT** remove packages that are included in the ROM by default.  
@@ -26,7 +26,7 @@ Device trees for Halcyon:
 
 ## Kernel Source
 
-Kernel sources for Halcyon:
+Kernel sources for #ItOnlyDoesEverything:
 
 - **MUST** have a complete commit history and proper authorship.  
 - **MUST NOT** include any type of blocker (e.g., Boeffla Wakelock Blocker, FS blocker).  

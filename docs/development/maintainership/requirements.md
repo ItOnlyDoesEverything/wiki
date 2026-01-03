@@ -5,7 +5,7 @@ pagination_prev: null
 ---
 
 # Requirements
-To become Halcyon Official Device Maintainers, you have to complete following requirements:
+To become #ItOnlyDoesEverything Official Device Maintainers, you have to complete following requirements:
 
 | **Requirement** | **Description** |
 |---|---|

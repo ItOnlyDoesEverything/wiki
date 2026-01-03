@@ -16,7 +16,7 @@ The maintainers:
 - **MUST** maintain a respectful and positive attitude within the community, refraining from engaging in arguments or insults.
 - **MUST** allow core team members to inspect and review the source code they are working with.
 - **MUST NOT** add or remove packages without a valid and justifiable reason.
-- **MUST NOT** modify the core Halcyon source code without prior approval.
+- **MUST NOT** modify the core #ItOnlyDoesEverything source code without prior approval.
 - **MUST NOT** include any modifications such as Audio Mods (e.g., Dolby, Dirac, ViperFX4Android) or third-party cameras (e.g., GCam) unless they are ported from the stock ROM of the device being maintained.
 - **MUST** provide regular updates to the project, with a minimum frequency of one update per month.
 - **MUST** actively participate in discussions regarding the project, especially when decisions affect the devices they maintain.
@@ -30,8 +30,8 @@ The maintainers:
 - **MUST NOT** engage in any form of plagiarism or misrepresentation of work. All work must be original or properly attributed.
 - **MUST** respect deadlines for major updates or releases, and notify the team promptly if they are unable to meet those deadlines.
 - **MUST** ensure that all build files, device-specific configurations, and scripts are kept up to date with upstream changes.
-- **MUST NOT** use official maintainer privileges for personal gain, such as advertising personal modifications as official Halcyon releases.
+- **MUST NOT** use official maintainer privileges for personal gain, such as advertising personal modifications as official #ItOnlyDoesEverything releases.
 - **SHOULD** maintain clear communication with the team and the community about progress, roadblocks, or changes in their capacity to maintain a device.
 - **MUST** promptly report any bugs or issues that cannot be resolved independently to the core team for assistance.
 
-By adhering to these guidelines, maintainers help ensure the quality and sustainability of the Halcyon project.
+By adhering to these guidelines, maintainers help ensure the quality and sustainability of the #ItOnlyDoesEverything project.
